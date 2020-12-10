@@ -1,6 +1,6 @@
 # CSY2026_AS1
 
-Aims & Objectives
+<h1>Aims & Objectives</h1>
 To enable the student to understand and extend Distributed Computing applications, using
 the Java programming language and C# .NET utilising the Transmission Control Protocol
 (TCP) as well as User Datagram Protocol (UDP).
